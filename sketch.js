@@ -23,8 +23,8 @@ function setup(){
 //create a canvas
 
 // createCanvas(window,window);
-//createCanvas(windowWidth,windowHeight);
-createCanvas(width,height);
+createCanvas(windowWidth,windowHeight);
+//createCanvas(width,height);
 //createCanvas(200,200);
 
 // Moving background
